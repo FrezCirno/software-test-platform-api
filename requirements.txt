@@ -3,3 +3,4 @@ flask_cors
 flask_restx
 pandas
 state_machine
+gunicorn
